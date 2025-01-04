@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ziad Bakki!
 
-<!--
-**ziad-bakki/ziad-bakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student @ Michigan State University**  
 
-Here are some ideas to get you started:
+I have a passion for creating impactful software solutions, with experience in full-stack development, backend optimization, and AI. Currently, I'm seeking opportunities to further my skills and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Programming Languages:** Python, C++/C#, JavaScript, HTML/CSS  
+- **Frameworks & Tools:** React, Flask, Django, NumPy, GymAI, wxWidgets, CMake  
+
+## 🌟 Projects
+- **[Tanweer Energy Solar Solutions](https://github.com/ziad-bakki/Tanweer-Energy-Solutions/):** Developed an interactive website for solar energy solutions in Baghdad.  
+- **[NASA Image Parser](https://github.com/ziad-bakki/Nasa-Image-Parser):** A web scraper for NASA's Image of the Day using Flask.  
+- **[Portfolio Website](https://github.com/ziad-bakki/Personal-Website):** My personal website showcasing my achievements.
+
+## 📫 Let's Connect!
+- 📧 Email: [bakkizia@msu.edu](mailto:bakkizia@msu.edu)  
+- 💼 LinkedIn: [linkedin.com/in/ziad-bakki](https://linkedin.com/in/ziad-bakki)  
+- 🖥️ GitHub: [github.com/ziad-bakki](https://github.com/ziad-bakki)  
