@@ -5,7 +5,7 @@
 I have a passion for creating impactful software solutions, with experience in full-stack development, backend optimization, and AI. Currently, I'm seeking opportunities to further my skills and contribute to innovative projects.
 
 ## 🔧 Technical Skills
-- **Programming Languages:** Python, C++/C#, JavaScript, HTML/CSS  
+- **Programming Languages:** Python, C++/C#, TypeScript, HTML/CSS  
 - **Frameworks & Tools:** React, Flask, Django, NumPy, GymAI, wxWidgets, CMake  
 
 ## 🌟 Projects
