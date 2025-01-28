@@ -13,7 +13,7 @@ I have a passion for creating impactful software solutions, with experience in f
 - **[NASA Image Parser](https://github.com/ziad-bakki/Nasa-Image-Parser):** A web scraper for NASA's Image of the Day using Flask.  
 - **[Portfolio Website](https://github.com/ziad-bakki/Personal-Website):** My personal website showcasing my achievements.
 
-## 📫 Let's Connect!
+## 📫 Connect with me
 - 📧 Email: [bakkizia@msu.edu](mailto:bakkizia@msu.edu)  
 - 💼 LinkedIn: [linkedin.com/in/ziad-bakki](https://linkedin.com/in/ziad-bakki)  
 - 🖥️ GitHub: [github.com/ziad-bakki](https://github.com/ziad-bakki)  
